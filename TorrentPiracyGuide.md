@@ -54,6 +54,7 @@
 * [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [BTMET](https://btmet.com/)
+* [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)
@@ -128,7 +129,7 @@
 ## ▷ qBittorrent Tools
 
 * 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins?tab=readme-ov-file#search-plugins)** - Plugins Index
-* 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)** - Themes Index
+* 🌐 **[QBT Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
 * [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
 * [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
@@ -170,11 +171,10 @@
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** - Tracker Status Updates
 * [TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Check if Private Trackers Open Signups
 * [/r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
-* [/r/trackersignups](https://www.reddit.com/r/trackersignups/), [/r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [/r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
+* [/r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [/r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
 * [TheShow](https://theshow.click/login.php) - Open Registrations
 * [MyAnonaMouse](https://www.myanonamouse.net/) - Open Applications
-* [hdvinnie](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Open Tracker Invites
-* [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Open Tracker Invites
+* [hdvinnie](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Private Tracker List
 * [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
 * [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats

@@ -52,8 +52,7 @@
 * ↪️ **[Telegram Ebook Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)**
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)**, [2](https://annas-archive.gs/), [3](https://annas-archive.se/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262)
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
-* ⭐ **[Z-Library](https://singlelogin.re/)** - Books / Comics / Educational
-* ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [.Onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
+* ⭐ **[Z-Library](https://singlelogin.re/)**, [2](https://singlelogin.rs/) - Books / Comics / Educational / [Desktop / Extensions](https://zlibrary-qq.re/) / [.Onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Liber3](https://liber3.eth.limo/)** - Books / [Telegram](https://t.me/liber3eth)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://pastebin.com/pZuuMxYm)
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://bookripper.neocities.org/)
@@ -353,7 +352,7 @@
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
-* ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading10)**
+* ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading8)**
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
@@ -426,7 +425,6 @@
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/)
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
-* ⭐ **[server.elscione](https://rentry.co/FMHYBase64#serverelscione)**
 * [Vynovel](https://vynovel.com/)
 * [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
 * [Ranobes](https://ranobes.top/)
@@ -688,8 +686,7 @@
 * [Essential Programming Books](https://www.programming-books.io/)
 * [free-programming-books](https://github.com/chrislgarry/free-programming-books)
 * [Free eBooks](https://books-pdf.blogspot.com/)
-* [goalkicker](https://goalkicker.com/)
-* [GoalKicker](https://books.goalkicker.com/)
+* [GoalKicker](https://goalkicker.com/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -914,7 +911,7 @@
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Metadata Automatically
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC
+* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook Reader / PDF / PC
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
@@ -956,7 +953,7 @@
 * 🌐 **[Ebook Converters Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converter Indexes
 * 🌐 **[DeDRM_tools](https://github.com/noDRM/DeDRM_tools)** - Ebook DRM Removal Tools
 * ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [BookAI](https://www.bookai.chat/ ) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * ⭐ **[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [Bionic Reading](https://app.bionic-reading.com/?type=text), [Tailwind BR](https://crisanlucid.github.io/vite-react-tailwind-bionic-reading/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
